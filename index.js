@@ -24,13 +24,13 @@ class data{
     {
     this.students = students
     this.course = courses
-    
+    }
 
 var datacollection = new students()
 console.log(typeof(datacollection))
 console.log(datacollection)
-s1.display()
-console.log(datacollection.studentnum)//Private will be undefined
+datacollection.display()
+console.log(datacollection.studentnum)
 console.log(datacollection.firstname)
 
     }
