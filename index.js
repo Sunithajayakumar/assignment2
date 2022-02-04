@@ -33,4 +33,4 @@ datacollection.display()
 console.log(datacollection.studentnum)
 console.log(datacollection.firstname)
 
-    }
+    
