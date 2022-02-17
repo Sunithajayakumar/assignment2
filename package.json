@@ -1,13 +1,24 @@
 {
-  "name": "assignment2",
+  "name": "assignment3",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "express.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-    },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunithajayakumar/assignment2im.git"
+  },
+  "keywords": [
+    "js",
+    "express"
+  ],
+  "author": "SunithaJayakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunithajayakumar/assignment2/issues"
+  },
+  "homepage": "https://github.com/Sunithajayakumar/assignment2#readme"
 }
